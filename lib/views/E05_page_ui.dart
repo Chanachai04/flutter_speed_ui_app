@@ -175,7 +175,7 @@ class _E05PageUIState extends State<E05PageUI> {
                     },
                     style: ElevatedButton.styleFrom(
                       fixedSize: Size(
-                        mediaQueryWidth * 1,
+                        mediaQueryWidth * 1.0,
                         mediaQueryHeight * 0.06,
                       ),
                       backgroundColor: Colors.transparent,
